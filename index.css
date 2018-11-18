@@ -1,0 +1,70 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 20px;
+  height: 100px;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  text-align: justify
+}
+
+
+a {
+  color: ;
+}
+
+header {
+  padding: 10px;
+  background: ;
+  color: 33;
+  text-shadow: 1px 1px 1px #000;
+  text-align: center;
+  background-color: aquamarine
+}
+
+nav {
+  background-color: blueviolet;
+  text-align: center
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 20px;
+  font-size: 24px;
+}
+
+section {
+  width: 95%;
+  margin: 0 auto;
+  padding: 50px;
+  min-height: 200px;
+  background-color: aqua
+}
+
+section img {
+  margin-top: 20px;
+}
+
+footer {
+  clear: left;
+  padding: 10px;
+  background: ;
+  text-align: ;
+  background-color: bisque
+}
+
+
+
+Collapse 
+
+Message Input
+
+
+Message #bellevue-101d16
